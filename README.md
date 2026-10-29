@@ -14,4 +14,3 @@ Utilizamos React + Vite y JSON para guardar los datos de las carreras.
 
 Aprendimos a crear componentes para tener bloques reutilizables e independientes.
 
-# Enlace de despliegue (si aplicable).
