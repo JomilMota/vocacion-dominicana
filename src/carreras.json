@@ -1,0 +1,147 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "Ingeniería de Software",
+    "area": "tecnologia",
+    "icono": "💻",
+    "descripcion": "Diseña y desarrolla aplicaciones, páginas web y sistemas que resuelven problemas reales.",
+    "habilidades": [
+      "Pensamiento lógico",
+      "Resolución de problemas",
+      "Aprendizaje continuo"
+    ],
+    "salidas": [
+      "Desarrollador web",
+      "Ingeniero de software",
+      "Analista de sistemas"
+    ],
+    "mensaje": "Si te gusta resolver problemas y crear cosas con tecnología, ¡esta vuelta puede ser la tuya!"
+  },
+  {
+    "id": 2,
+    "nombre": "Diseño Gráfico",
+    "area": "creatividad",
+    "icono": "🎨",
+    "descripcion": "Comunica ideas mediante imágenes, tipografía, colores e identidad visual.",
+    "habilidades": [
+      "Creatividad",
+      "Comunicación visual",
+      "Atención al detalle"
+    ],
+    "salidas": [
+      "Diseñador gráfico",
+      "Diseñador de marcas",
+      "Diseñador digital"
+    ],
+    "mensaje": "Si siempre estás creando e imaginando cosas nuevas, ¡sácale provecho a ese talento!"
+  },
+  {
+    "id": 3,
+    "nombre": "Medicina",
+    "area": "salud",
+    "icono": "🩺",
+    "descripcion": "Se enfoca en la prevención, el diagnóstico y el tratamiento de enfermedades.",
+    "habilidades": [
+      "Empatía",
+      "Responsabilidad",
+      "Interés por las ciencias"
+    ],
+    "salidas": [
+      "Médico general",
+      "Investigación médica",
+      "Especialidades médicas"
+    ],
+    "mensaje": "Si te mueve ayudar a los demás y aprender sobre el cuerpo humano, explora esta carrera."
+  },
+  {
+    "id": 4,
+    "nombre": "Administración de Empresas",
+    "area": "negocios",
+    "icono": "📊",
+    "descripcion": "Organiza recursos, equipos y procesos para alcanzar objetivos empresariales.",
+    "habilidades": [
+      "Liderazgo",
+      "Organización",
+      "Toma de decisiones"
+    ],
+    "salidas": [
+      "Administrador",
+      "Analista de negocios",
+      "Emprendedor"
+    ],
+    "mensaje": "¿Te gusta organizar, dirigir o emprender? ¡Aquí puedes convertir tus ideas en proyectos!"
+  },
+  {
+    "id": 5,
+    "nombre": "Ingeniería Civil",
+    "area": "ciencias",
+    "icono": "🏗️",
+    "descripcion": "Planifica, diseña y supervisa infraestructuras como edificios, carreteras y puentes.",
+    "habilidades": [
+      "Matemáticas",
+      "Planificación",
+      "Pensamiento espacial"
+    ],
+    "salidas": [
+      "Ingeniero residente",
+      "Diseñador de estructuras",
+      "Gestor de proyectos"
+    ],
+    "mensaje": "Si te interesa cómo se construye el mundo que te rodea, ¡échale un ojo a esta opción!"
+  },
+  {
+    "id": 6,
+    "nombre": "Comunicación Social",
+    "area": "comunicacion",
+    "icono": "🎙️",
+    "descripcion": "Estudia cómo producir y transmitir mensajes a través de medios tradicionales y digitales.",
+    "habilidades": [
+      "Expresión oral y escrita",
+      "Investigación",
+      "Creatividad"
+    ],
+    "salidas": [
+      "Periodista",
+      "Productor audiovisual",
+      "Gestor de comunicación"
+    ],
+    "mensaje": "Si te gusta contar historias, investigar y conectar con la gente, ¡esta carrera podría gustarte!"
+  },
+  {
+    "id": 7,
+    "nombre": "Psicología",
+    "area": "salud",
+    "icono": "🧠",
+    "descripcion": "Estudia el comportamiento humano y los procesos mentales en diferentes contextos.",
+    "habilidades": [
+      "Escucha activa",
+      "Empatía",
+      "Pensamiento crítico"
+    ],
+    "salidas": [
+      "Psicología educativa",
+      "Psicología organizacional",
+      "Psicología clínica con la formación requerida"
+    ],
+    "mensaje": "Si te interesa entender a las personas y cómo piensan, ¡esta área merece una mirada!"
+  },
+  {
+    "id": 8,
+    "nombre": "Contabilidad",
+    "area": "negocios",
+    "icono": "🧾",
+    "descripcion": "Registra, analiza e interpreta información financiera para apoyar decisiones.",
+    "habilidades": [
+      "Organización",
+      "Atención al detalle",
+      "Razonamiento numérico"
+    ],
+    "salidas": [
+      "Contador",
+      "Auditor",
+      "Analista financiero"
+    ],
+    "mensaje": "Si te gustan los números, el orden y entender cómo se mueve el dinero, considera esta opción."
+  }
+]
